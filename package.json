@@ -36,7 +36,6 @@
     "next-themes": "^0.2.1",
     "openai": "^4.10.0",
     "postcss": "8.4.30",
-    "prisma": "^5.3.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.46.2",
@@ -47,5 +46,8 @@
     "typescript": "5.2.2",
     "youtube-transcript": "^1.0.6",
     "zod": "^3.22.2"
+  },
+  "devDependencies": {
+    "prisma": "^5.3.1"
   }
 }
